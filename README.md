@@ -3,10 +3,10 @@ Monopoly is a universally adored family game. What are some of the optimal strat
 
 
 ### Python Simulation:
-[Link](monopoly_simulation.ipynb): Simulation results were used in ANOVA and game theory methods. 
+Simulation results were used in ANOVA and game theory methods. [Link](monopoly_simulation.ipynb)
 
 ### Markov Chain implementaion
-- [Finding the transition matrix and steady state probability](monopoly_markov.ipynb)
-- [Failed excel implementation of markov chain](MarkovExcelImplementation.xlsx)
-- [Calculate expected returns in excel](MarkovChainFinancials.xlsx)
-- [Graphs for expected returns of tiles](finances_markov.ipynb) (expected returns were calculated in excel)
+- Implementing markov chain, Finding the transition matrix and steady state probability. [Link](monopoly_markov.ipynb)
+- Failed excel implementation of markov chain[Link](financials/MarkovExcelImplementation.xlsx)
+- Calculate expected returns in excel[Link](financials/MarkovChainFinancials.xlsx)
+- Graphs for expected returns of tiles[Liink](finances_markov.ipynb) (expected returns were calculated in excel)
