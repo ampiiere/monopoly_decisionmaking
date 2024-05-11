@@ -9,4 +9,4 @@ Simulation results were used in ANOVA and game theory methods. [Link](monopoly_s
 - Implementing markov chain, Finding the transition matrix and steady state probability. [Link](monopoly_markov.ipynb)
 - Failed excel implementation of markov chain. [Link](financials/MarkovExcelImplementation.xlsx)
 - Calculate expected returns in excel. [Link](financials/MarkovChainFinancials.xlsx)
-- Graphs for expected returns of tiles. (expected returns were calculated from [excel](financials/MarkovChainFinancials.xlsx).  [Link](finances_markov.ipynb) 
+- Graphs for expected returns of tiles. (expected returns were calculated from [excel](financials/MarkovChainFinancials.xlsx)).  [Link](finances_markov.ipynb) 
